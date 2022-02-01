@@ -5,4 +5,4 @@ This repository contains two small Maven projects intended as examples of how a 
 
 Working on CI part. 
 changes pushing from remote to local.
-
+working on fetch command.
